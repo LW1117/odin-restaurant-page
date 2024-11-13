@@ -12,5 +12,3 @@ menuButton.addEventListener("click", () => menu());
 aboutButton.addEventListener("click", () => about());
 
 home();
-
-// TODO in menu simplify the code
